@@ -5,8 +5,8 @@ Welcome to the InternLM Tutorial Note repository! This repository serves as a co
 
 ## 文章
 
-- ![Linux+InternStudio 关卡](./01-Linux+InternStudio.md)
+- [Linux+InternStudio 关卡](./01-Linux+InternStudio.md)
 
-- ![Python](./02-Python.md)
+- [Python](./02-Python.md)
 
 
